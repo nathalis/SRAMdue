@@ -10,6 +10,7 @@ Library based on sample program to use a Serial SRAM chip to expand memory for a
    (1) Arduino DUE
    (2) Microchip 23LC1024 SPI SRAM chip
    
+   ```shell
    Wiring:
    23LC1024 - DUE:
    ---------------
@@ -21,6 +22,6 @@ Library based on sample program to use a Serial SRAM chip to expand memory for a
    Pin6 (SCK) -- Pin 7 (SCK)
    Pin7 (HOLD) -- 10K -- +5V
    Pin8 (V+)  -- +5V
-   
+   ```
    
    
